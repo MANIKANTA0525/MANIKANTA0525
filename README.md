@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MANIKANTA0525</h1>
-<h3 align="center">A passionate self-taught full stack web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.</h3>
+<h3 align="center">A passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikanta0525&label=Profile%20views&color=0e75b6&style=flat" alt="manikanta0525" /> </p>
 
