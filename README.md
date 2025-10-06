@@ -1,21 +1,103 @@
-<h1 align="center">Hi 👋, I'm Manikanta</h1>
-<h3 align="center">A passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.</h3>
+<h1 align="center">👋 Hi, I'm Leela Durga Manikanta Maruboyina</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikanta0525&label=Profile%20views&color=0e75b6&style=flat" alt="manikanta0525" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikanta0525" alt="manikanta0525" /></a> </p>
-
-- 🔭 I’m currently working on **Sentinel**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  🚀 <strong>Full Stack Java Developer | React | Node.js | AWS | Spring Boot</strong><br>
+  💡 Passionate about building scalable, cloud-native, and high-performance applications
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikanta0525&show_icons=true&theme=radical&count_private=true,prs&locale=en&layout=compact" alt="manikanta0525" /></p>
+### 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikanta0525&show_icons=true&theme=radical&count_private=true,prs&locale=en" alt="manikanta0525" /></p>
+I'm a **Full Stack Developer** with over 8 years of experience building enterprise web applications using **Java, Spring Boot, React, Node.js, and AWS**.  
+I specialize in developing **end-to-end solutions** — from designing REST APIs to creating dynamic user interfaces and deploying applications to the cloud.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta0525&" alt="manikanta0525" /></p>
+🌱 **Currently Exploring:** AWS Serverless, Next.js, and DevOps automation  
+⚙️ **Focused On:** Clean code, scalability, and performance optimization  
+🎯 **Goal:** Build systems that make technology seamless and impactful  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Java` • `JavaScript` • `TypeScript` • `SQL` • `Python`
+
+**Frontend:**  
+`React.js` • `Redux` • `Angular` • `HTML5` • `CSS3` • `Bootstrap` • `Material-UI`
+
+**Backend:**  
+`Spring Boot` • `Spring Cloud` • `Node.js` • `Express.js` • `Hibernate` • `JPA`
+
+**Databases:**  
+`PostgreSQL` • `MySQL` • `MongoDB` • `DynamoDB` • `Cassandra`
+
+**Cloud & DevOps:**  
+`AWS (EC2, S3, Lambda, RDS, API Gateway)` • `Docker` • `Kubernetes` • `Jenkins` • `Terraform` • `GitHub Actions`
+
+**Testing & Tools:**  
+`JUnit` • `Mockito` • `Postman` • `Cypress` • `Jira` • `Git` • `VS Code` • `Eclipse`
+
+---
+
+### 💼 Featured Projects
+
+#### 🏥 [Hospital Management System](#)
+> A full-stack web application for managing patients, doctors, and appointments.
+- Backend: Spring Boot + RESTful APIs  
+- Frontend: React + Material UI  
+- Database: MySQL  
+- Deployment: AWS EC2 + RDS  
+- Features: JWT authentication, Role-based access, CI/CD pipeline  
+
+#### 🍽️ [Merrill Virtual Restaurant](#)
+> An interactive online restaurant platform for ordering, menu management, and admin dashboards.
+- Tech Stack: React.js, Node.js, MySQL  
+- Role: Designed both customer and admin modules  
+- Features: Secure login, order tracking, and admin control for food management  
+
+#### 📦 [Sentinel – Customs Broker Platform](#)
+> Built for Unifo Pvt. Ltd., helping brokers file import/export documentation.
+- Tech Stack: React, Node.js (Hapi.js), AWS Lambda, DynamoDB  
+- Achievements: Reduced front-end load time by 40%, implemented on-scroll job loading  
+
+#### 💻 [CON-MRI and CON-Serve Projects](#)
+> Enterprise support systems for data reconciliation and FFM reports at State of Michigan DTMB.
+- Tools: Salesforce, Oracle Siebel, SQL, Excel automation  
+- Role: Implemented automation scripts and documentation for production support  
+
+---
+
+### 🌐 Portfolio Website
+Check out my portfolio:  
+👉 [https://your-portfolio-link.com](#)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leelamaruboyina17&show_icons=true&theme=radical" alt="Leela's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelamaruboyina17&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:leelamaruboyina17@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leela-manikanta-m-191a46123/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/leelamaruboyina17"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@leelamaruboyina17"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Quote I Live By
+> "Code is like humor. When you have to explain it, it’s bad."  
+> — Cory House
+
+---
+
+⭐ **If you like my work, feel free to star this repo and connect with me!**
