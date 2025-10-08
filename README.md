@@ -1,88 +1,92 @@
-<h1 align="center">👋 Hi, I'm Leela Durga Manikanta Maruboyina</h1>
+# 👋 Hi, I'm Leela Durga Manikanta Maruboyina
 
-<p align="center">
-  🚀 <strong>Full Stack Java Developer | React | Node.js | AWS | Spring Boot</strong><br>
-  💡 Passionate about building scalable, cloud-native, and high-performance applications
-</p>
+🚀 **Senior Full Stack Developer | Java | Node.js | React | Angular | AWS | Microservices**
 
----
-
-### 🧑‍💻 About Me
-
-I'm a **Full Stack Developer** with over 8 years of experience building enterprise web applications using **Java, Spring Boot, React, Node.js, and AWS**.  
-I specialize in developing **end-to-end solutions** — from designing REST APIs to creating dynamic user interfaces and deploying applications to the cloud.
-
-🌱 **Currently Exploring:** AWS Serverless, Next.js, and DevOps automation  
-⚙️ **Focused On:** Clean code, scalability, and performance optimization  
-🎯 **Goal:** Build systems that make technology seamless and impactful  
+I’m a passionate software developer with **8+ years of experience** building scalable enterprise applications, cloud-native microservices, and responsive web apps. I specialize in full-stack development using **Java, Spring Boot, Node.js, React.js, and AWS** — delivering clean, efficient, and maintainable solutions that make an impact.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-**Languages:**  
-`Java` • `JavaScript` • `TypeScript` • `SQL` • `Python`
-
-**Frontend:**  
-`React.js` • `Redux` • `Angular` • `HTML5` • `CSS3` • `Bootstrap` • `Material-UI`
-
-**Backend:**  
-`Spring Boot` • `Spring Cloud` • `Node.js` • `Express.js` • `Hibernate` • `JPA`
-
-**Databases:**  
-`PostgreSQL` • `MySQL` • `MongoDB` • `DynamoDB` • `Cassandra`
-
-**Cloud & DevOps:**  
-`AWS (EC2, S3, Lambda, RDS, API Gateway)` • `Docker` • `Kubernetes` • `Jenkins` • `Terraform` • `GitHub Actions`
-
-**Testing & Tools:**  
-`JUnit` • `Mockito` • `Postman` • `Cypress` • `Jira` • `Git` • `VS Code` • `Eclipse`
+- 💼 Currently working as a **Senior Software Developer** at **CAI, Pittsburgh, PA**
+- 🧩 Skilled in both **backend** (Java, Spring Boot, Node.js) and **frontend** (React, Angular, TypeScript) development
+- ☁️ Experienced in **AWS Cloud** (EC2, Lambda, S3, DynamoDB, RDS, CloudWatch, Terraform)
+- 🔄 Strong understanding of **Microservices, REST APIs, Kafka, RabbitMQ, Docker, Kubernetes**
+- 🧪 Advocate of **Agile**, **CI/CD**, and **Test-Driven Development (TDD)** practices
+- 📊 Love building data-driven dashboards with **Power BI** and **Tableau**
+- 🧩 Believe in writing clean, modular, and well-documented code
 
 ---
 
-### 💼 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🏥 [Hospital Management System](#)
-> A full-stack web application for managing patients, doctors, and appointments.
-- Backend: Spring Boot + RESTful APIs  
-- Frontend: React + Material UI  
-- Database: MySQL  
-- Deployment: AWS EC2 + RDS  
-- Features: JWT authentication, Role-based access, CI/CD pipeline  
+### 💻 Backend
+- **Languages:** Java (8–11), Node.js, TypeScript, Python, SQL, PL/SQL  
+- **Frameworks:** Spring Boot, Spring Cloud, Hibernate, Express.js, JPA  
+- **Architecture:** Microservices, SOA, MVC, RESTful APIs, GraphQL  
+- **Messaging:** Kafka, RabbitMQ, ActiveMQ  
 
-#### 🍽️ [Merrill Virtual Restaurant](#)
-> An interactive online restaurant platform for ordering, menu management, and admin dashboards.
-- Tech Stack: React.js, Node.js, MySQL  
-- Role: Designed both customer and admin modules  
-- Features: Secure login, order tracking, and admin control for food management  
+### 🖥️ Frontend
+- **Libraries/Frameworks:** React.js, Redux, React Native, Angular (v11+), Vue.js  
+- **Web:** HTML5, CSS3, Bootstrap, SASS, JavaScript (ES6+), jQuery, AJAX  
 
-#### 📦 [Sentinel – Customs Broker Platform](#)
-> Built for Unifo Pvt. Ltd., helping brokers file import/export documentation.
-- Tech Stack: React, Node.js (Hapi.js), AWS Lambda, DynamoDB  
-- Achievements: Reduced front-end load time by 40%, implemented on-scroll job loading  
+### ☁️ Cloud & DevOps
+- **AWS Services:** EC2, Lambda, S3, RDS, DynamoDB, API Gateway, CloudWatch, IAM  
+- **DevOps Tools:** Jenkins, Docker, Kubernetes, Git, GitHub, GitLab, Maven, Gradle, Terraform  
+- **Monitoring:** Grafana, Kibana, AWS CloudWatch  
 
-#### 💻 [CON-MRI and CON-Serve Projects](#)
-> Enterprise support systems for data reconciliation and FFM reports at State of Michigan DTMB.
-- Tools: Salesforce, Oracle Siebel, SQL, Excel automation  
-- Role: Implemented automation scripts and documentation for production support  
+### 🗄️ Databases
+- **SQL:** MySQL, PostgreSQL, Oracle, DB2  
+- **NoSQL:** MongoDB, Cassandra, DynamoDB  
 
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:leelamaruboyina17@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/leela-manikanta-m-191a46123/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/leelamaruboyina17"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://medium.com/@leelamaruboyina17"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
+### 🧩 Other Tools
+- **Testing:** JUnit, Mockito, Jasmine, Karma, Protractor, Selenium  
+- **BI Tools:** Power BI, Tableau  
+- **Project Management:** JIRA, Confluence  
+- **Version Control:** Git, GitHub, SVN  
 
 ---
 
-### 🧠 Quote I Live By
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — Cory House
+## 📈 Professional Experience
+
+**Senior Software Developer — CAI, Pittsburgh, PA (Dec 2024 – Present)**  
+- Designed microservices using **Spring Boot** and **Node.js**, integrated with **React** frontends.  
+- Implemented **CI/CD pipelines** using Jenkins, Docker, and Kubernetes.  
+- Built AWS architectures leveraging **Lambda, DynamoDB, and S3** for scalable data processing.  
+- Developed **data visualization dashboards** using Power BI and Tableau.  
+
+**Software Developer — Walgreens, Newark, DE (Sept 2024 – Nov 2024)**  
+- Migrated legacy applications to **Angular and React** SPAs.  
+- Developed **Spring Boot** REST APIs with **Kafka** and **NiFi** data pipelines.  
+- Implemented **OAuth2 and JWT** for secure authentication.  
+
+**Full Stack Developer — Chase Bank, Detroit, MI (Nov 2021 – July 2023)**  
+- Built and deployed **microservices on AWS** using Docker and Kubernetes.  
+- Developed **React Native** mobile apps integrated with AWS services.  
+- Automated builds and deployments through **Jenkins and AWS CDK**.  
+
+**Software Developer — Wipro, India (Jan 2017 – Oct 2021)**  
+- Designed enterprise-grade web apps using **Java, Spring Boot, Angular, and React**.  
+- Improved system performance using multithreading and caching strategies.  
+- Implemented **CI/CD pipelines** and maintained AWS cloud infrastructure.  
 
 ---
 
-⭐ **If you like my work, feel free to star this repo and connect with me!**
+## 🎓 Education
+
+**Master of Science in Information Systems**  
+*Central Michigan University, USA*  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email:** [leelamaruboyina17@gmail.com](mailto:leelamaruboyina17@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/leela-manikanta-m-191a46123](https://www.linkedin.com/in/leela-manikanta-m-191a46123/)  
+- 💻 **GitHub:** [github.com/leelamaruboyina](https://github.com/MANIKANTA0525)
+
+---
+
+## 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+⭐ **If you like my work, consider starring my repositories!**
