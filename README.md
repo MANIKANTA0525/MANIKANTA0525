@@ -2,7 +2,7 @@
 
 🚀 **Senior Full Stack Developer | Java | Node.js | React | Angular | AWS | Microservices**
 
-I’m a passionate software developer with **8+ years of experience** building scalable enterprise applications, cloud-native microservices, and responsive web apps. I specialize in full-stack development using **Java, Spring Boot, Node.js, React.js, and AWS** — delivering clean, efficient, and maintainable solutions that make an impact.
+I’m a passionate software developer with **8+ years of experience** building scalable enterprise applications, cloud-native microservices, and responsive web apps. I specialize in full-stack development using **Java, Spring Boot, Node.js, React.js, Angular.js and AWS** — delivering clean, efficient, and maintainable solutions that make an impact.
 
 ---
 
