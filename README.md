@@ -68,21 +68,6 @@ I specialize in developing **end-to-end solutions** — from designing REST APIs
 
 ---
 
-### 🌐 Portfolio Website
-Check out my portfolio:  
-👉 [https://your-portfolio-link.com](#)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leelamaruboyina17&show_icons=true&theme=radical" alt="Leela's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelamaruboyina17&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
